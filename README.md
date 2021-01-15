@@ -1,1 +1,1 @@
-# DataScienceTutorial: Python, PyCharm, TensorFLow
+# DataScienceTutorial: Python, NN theory and practice
